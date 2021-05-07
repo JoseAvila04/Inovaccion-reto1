@@ -43,9 +43,9 @@
 
  *Nota: Los tipos de ataque en las redes puede ocurrir en la capa de transporte y red.
 
-# Conceptos pacerca de la nube, qué es, cómo funciona y beneficios además de los modelos de servicio que existen.
+# Conceptos acerca de la nube, qué es, cómo funciona y beneficios además de los modelos de servicio que existen.
 
-## La Nube
+
 
 ![Nube](https://tynmedia.com/tynmag/wp-content/uploads/sites/3/2019/06/El-futuro-empresarial-est%C3%A1-en-la-nube-e1560566724502.png)
 - ## ¿Qué es la nube?
