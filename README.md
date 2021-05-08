@@ -202,6 +202,7 @@ También puede emplearse para analizar el absentismo laboral en una empresa, det
 
 Como toda la tecnología actual y aquella que aún sigue en desarrollo, la Inteligencia Artificial cuenta con una serie de ventajas y desventajas que la sociedad en su conjunto debe valorar.
 Como Ventajas de la Inteligencia Artificial , entre otras, tenemos:
+
 •	Aumenta la eficacia de los procesos y los lleva a cabo de forma más rápida.
 •	Permite automatizar procesos repetitivos.
 •	Al estar basada en procedimientos computacionales, no comete errores humanos.
@@ -215,6 +216,3 @@ En cuanto a las _**desventajas o peligros que puede entrañar la IA_** encontram
 •	Su carencia de empatía o sentimientos la hace «inútil» para desempeñar tareas en las que el factor humano es fundamental.
 •	Se puede emplear con fines ilegales, como la creación y distribución de malware o la suplantación de identidad.
 •	Plantea dudas éticas en cuanto a su evolución hacia IA autoconscientes.
-
-
-
