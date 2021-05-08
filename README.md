@@ -102,7 +102,7 @@ La siguiente imagen ilustra varios de los conceptos de computación en la nube q
 
 <img src="https://docs.microsoft.com/en-gb/learn/azure-fundamentals/intro-to-azure-fundamentals/media/cloud-computing-continuum.png" wigth= 500>
 
-                                               ##_**¿Que es la AI y los diferentes tipos?_**
+                                               ##_** ¿Que es la AI y los diferentes tipos?_**
 
 ####La Inteligencia Artificial (o I.A.) es la capacidad de una máquina o sistema informática de emular en parte el comportamiento de la mente humana desarrollando capacidades que hasta hace poco solo estaban alcance del cerebro humano, como la creatividad o el análisis complejo en base de datos incompletos. Es uno de los conceptos más importantes, este término da referencia como la inteligencia llevada a cabo por máquinas, ya sean robots, mecanismos, máquinas especialmente programadas con el fin de realizar una actividad que maximicen las posibilidades de éxito en algún objetivo o tarea presentada. Este método se aplica cuando una máquina ya sea industrial o de otro ámbito, imita las funciones cognitivas que las personas asocian con otras mentes humanas.
 
@@ -148,7 +148,7 @@ Algunos ejemplos de Inteligencia Artificial aplicada al campo del marketing y la
 •	Curación de contenido: Se trata de sistemas de IA capaces de analizar el comportamiento de los usuarios en Internet y en base a ello ofrecerles contenidos acorde a su perfil.
 •	Email marketing: Se basa en la automatización y algunas de las herramientas que emplea pueden usar el procesamiento del lenguaje natural para redactar asuntos más llamativos o cuerpos de email personalizados.
 
-                                                              ###_**Atención al cliente_**
+                                                              ###_** Atención al cliente _**
 
 ####Los departamentos de atención al cliente también pueden beneficiarse del empleo de sistemas de Inteligencia Artificial, puesto que pueden delegar algunas tareas en asistentes virtuales. Pero no solo eso, como en el caso del marketing, pueden analizar el comportamiento de los usuarios y poder ofrecerles la ayuda que buscan prácticamente en tiempo real.
 La atención al cliente genera una gran cantidad de datos que los sistemas de IA pueden ayudar a analizar para crear servicios predictivos con los que las empresas puedan adelantarse a las consultas y necesidades de sus clientes, ofreciéndoles una atención más personalizada.
