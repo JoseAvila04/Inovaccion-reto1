@@ -137,9 +137,9 @@ En el contexto de la informática en la nube, la inteligencia artificial se basa
 ### DevOps
 DevOps reúne a individuos, procesos y tecnología mediante la automatización de la entrega de software para ofrecer un valor continuo a los usuarios. Con Azure DevOps puede crear, compilar y publicar canalizaciones que proporcionan integración, entrega e implementación continuas a las aplicaciones. Puede integrar los repositorios y las pruebas de aplicaciones, realizar la supervisión de aplicaciones y trabajar con artefactos de compilación. También puede trabajar con elementos de trabajo pendiente para realizar el seguimiento, automatizar la implementación de la infraestructura e integrar una gama de herramientas y servicios de terceros como Jenkins y Chef. Todas estas funciones y muchas más están estrechamente integradas con Azure para permitir implementaciones coherentes y reproducibles para que las aplicaciones proporcionen unos procesos de compilación y lanzamiento optimizados.
 
-                                               ##_**¿Que es la AI y los diferentes tipos?_**
+# Inteligencia Artificial
 
-####La Inteligencia Artificial (o I.A.) es la capacidad de una máquina o sistema informática de emular en parte el comportamiento de la mente humana desarrollando capacidades que hasta hace poco solo estaban alcance del cerebro humano, como la creatividad o el análisis complejo en base de datos incompletos.
+La Inteligencia Artificial (o I.A.) es la capacidad de una máquina o sistema informática de emular en parte el comportamiento de la mente humana desarrollando capacidades que hasta hace poco solo estaban alcance del cerebro humano, como la creatividad o el análisis complejo en base de datos incompletos. Como bien se denomina, su emulación es a través de modelos matemáticos que se expresan de la forma en la que aprendemos y pensamos los seres humanos. También, existen diversas formas las cuales una IA puede aprender, pero se relaciona más centrado al aprendizaje de un niño pequeño.
                                            
                                                    ##_**Tipos de inteligencia artificial-**
                                                    
