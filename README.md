@@ -149,7 +149,7 @@ El funcionamiento de la Inteligencia Artificial depende en gran medida de los al
 Una primera diferencia la podemos hacer entre los sistemas de IA débil e IA fuerte. Los primeros, también conocidos como IA estrecha, son sistemas diseñados y entrenados para realizar una única tarea. Mientras que los segundos, también llamados como inteligencia general artificial, son sistemas que cuentan con habilidades cognitivas humanas generalizadas, de manera que tienen la capacidad de encontrar por sí mismas la solución a una tarea planteada.
 Una segunda forma de distinguir entre tipos de IA la encontramos en la categorización que hizo Arend Hintze, profesor de biología integradora e ingeniería y ciencias de la computación en la Universidad Estatal de Michigan. Hintze distingue entre 4 tipos de IA, tanto existentes hoy en día como todavía por desarrollarse. Los vemos en detalle a continuación.
 
-<img src= "https://aprendeia.com/wp-content/uploads/2019/10/tipos-de-inteligencia-artificial.png" width=600>
+<img src= "https://aprendeia.com/wp-content/uploads/2019/10/tipos-de-inteligencia-artificial.png" width=400>
      
 ## Máquinas Reactivas    
                                                        
