@@ -104,7 +104,9 @@ La siguiente imagen ilustra varios de los conceptos de computación en la nube q
 
                                                ##_**¿Que es la AI y los diferentes tipos?_**
 
-####La Inteligencia Artificial (o I.A.) es la capacidad de una máquina o sistema informática de emular en parte el comportamiento de la mente humana desarrollando capacidades que hasta hace poco solo estaban alcance del cerebro humano, como la creatividad o el análisis complejo en base de datos incompletos.
+####La Inteligencia Artificial (o I.A.) es la capacidad de una máquina o sistema informática de emular en parte el comportamiento de la mente humana desarrollando capacidades que hasta hace poco solo estaban alcance del cerebro humano, como la creatividad o el análisis complejo en base de datos incompletos. Es uno de los conceptos más importantes, este término da referencia como la inteligencia llevada a cabo por máquinas, ya sean robots, mecanismos, máquinas especialmente programadas con el fin de realizar una actividad que maximicen las posibilidades de éxito en algún objetivo o tarea presentada. Este método se aplica cuando una máquina ya sea industrial o de otro ámbito, imita las funciones cognitivas que las personas asocian con otras mentes humanas.
+
+<img src="https://www.cic.es/wp-content/uploads/2018/05/imagen_blog-1100x605.png" width=500>
                                            
                                                    ##_**Tipos de inteligencia artificial-**
                                                    
