@@ -102,11 +102,44 @@ La siguiente imagen ilustra varios de los conceptos de computación en la nube q
 
 <img src="https://docs.microsoft.com/en-gb/learn/azure-fundamentals/intro-to-azure-fundamentals/media/cloud-computing-continuum.png" wigth= 500>
 
-                                               ##_** ¿Que es la AI y los diferentes tipos?_**
+# ¿Qué es Azure?
+ De la mano de Microsoft , Azure es un conjunto de servicios en la nube en expansión constante que ayudan a la organización a cumplir los desafíos empresariales actuales y futuros
+ 
+ <img src="https://xentic.com.pe/wp-content/uploads/2019/02/azure-gif.gif" wigth= 300>
+ 
+ ## ¿Qué puedo hacer con Azure?
+ Azure proporciona más de cien servicios que permiten hacer todo tipo de cosas: desde ejecutar las aplicaciones existentes en máquinas virtuales hasta explorar nuevos paradigmas de software, como bots inteligentes, inteligencia artificial y aprendizaje automático, y realidad mixta.
+También facilita soluciones de almacenamiento que crecen dinámicamente para dar cabida a grandes cantidades de datos. 
 
-####La Inteligencia Artificial (o I.A.) es la capacidad de una máquina o sistema informática de emular en parte el comportamiento de la mente humana desarrollando capacidades que hasta hace poco solo estaban alcance del cerebro humano, como la creatividad o el análisis complejo en base de datos incompletos. Es uno de los conceptos más importantes, este término da referencia como la inteligencia llevada a cabo por máquinas, ya sean robots, mecanismos, máquinas especialmente programadas con el fin de realizar una actividad que maximicen las posibilidades de éxito en algún objetivo o tarea presentada. Este método se aplica cuando una máquina ya sea industrial o de otro ámbito, imita las funciones cognitivas que las personas asocian con otras mentes humanas.
+<img src="https://www.hiberus.com/crecemos-contigo/wp-content/uploads/2019/07/1-1.png" wigth= 450>
 
-<img src="https://www.cic.es/wp-content/uploads/2018/05/imagen_blog-1100x605.png" width=500>
+### Estas son algunas de las categorías que se usan con más frecuencia:
+
+### Proceso
+Azure proporciona una amplia gama de opciones para hospedar aplicaciones y servicios. 
+### Redes
+La funcionalidad de red de Azure incluye una gama de opciones para conectar el mundo exterior a servicios y características de los centros de datos globales de Azure.
+### Móvil
+Con Azure, los desarrolladores pueden crear servicios de back-end móviles para aplicaciones iOS, Android y Windows de forma rápida y sencilla. 
+### Almacenamiento
+Permite almacenar archivos desde cualquiera de tus dispositivo compatible con Azure a la nube
+### Bases de datos
+Azure proporciona varios servicios de base de datos para almacenar una gran variedad de volúmenes y tipos de datos. Y con la conectividad global, los usuarios disponen de estos datos al instante.
+### Web
+Azure incluye soporte técnico de primera clase para compilar y hospedar aplicaciones web y servicios web basados en HTTP. 
+### IoT
+Los asistentes digitales personales llevaron a los smartphones y ahora existen relojes inteligentes, termostatos inteligentes e incluso frigoríficos inteligentes. Los equipos estaban a la orden del día. Ahora, Internet permite que cualquier objeto capaz de conectarse tenga acceso a valiosa información. Esta capacidad de los dispositivos de obtener y luego retransmitir información para el análisis de datos se conoce como IoT (Internet de las cosas).
+### Macrodatos
+Los datos se presentan en cualquier formato y tamaño. Cuando hablamos sobre macrodatos, nos referimos a grandes volúmenes de datos. Los datos de los sistemas del tiempo, sistemas de comunicaciones, investigación genómica, plataformas de imágenes y muchos otros escenarios generan cientos de gigabytes de datos. Esta cantidad de datos hace que resulte difícil analizar y tomar decisiones. A menudo es tan grande que las formas de procesamiento y análisis tradicionales ya no son adecuadas.
+Se han desarrollado tecnologías de clúster de código abierto para tratar con estos grandes conjuntos de datos. Azure admite una amplia gama de tecnologías y servicios para proporcionar soluciones de análisis y macrodatos.
+### Inteligencia Artificial 
+En el contexto de la informática en la nube, la inteligencia artificial se basa en una amplia gama de servicios, donde el principal es el aprendizaje automático. El aprendizaje automático es una técnica de ciencia de datos que permite a los equipos utilizar datos existentes para prever tendencias, resultados y comportamientos futuros. Mediante el aprendizaje automático, los equipos aprenden sin necesidad de programarlos explícitamente.
+### DevOps
+DevOps reúne a individuos, procesos y tecnología mediante la automatización de la entrega de software para ofrecer un valor continuo a los usuarios. Con Azure DevOps puede crear, compilar y publicar canalizaciones que proporcionan integración, entrega e implementación continuas a las aplicaciones. Puede integrar los repositorios y las pruebas de aplicaciones, realizar la supervisión de aplicaciones y trabajar con artefactos de compilación. También puede trabajar con elementos de trabajo pendiente para realizar el seguimiento, automatizar la implementación de la infraestructura e integrar una gama de herramientas y servicios de terceros como Jenkins y Chef. Todas estas funciones y muchas más están estrechamente integradas con Azure para permitir implementaciones coherentes y reproducibles para que las aplicaciones proporcionen unos procesos de compilación y lanzamiento optimizados.
+
+                                               ##_**¿Que es la AI y los diferentes tipos?_**
+
+####La Inteligencia Artificial (o I.A.) es la capacidad de una máquina o sistema informática de emular en parte el comportamiento de la mente humana desarrollando capacidades que hasta hace poco solo estaban alcance del cerebro humano, como la creatividad o el análisis complejo en base de datos incompletos.
                                            
                                                    ##_**Tipos de inteligencia artificial-**
                                                    
@@ -148,7 +181,7 @@ Algunos ejemplos de Inteligencia Artificial aplicada al campo del marketing y la
 •	Curación de contenido: Se trata de sistemas de IA capaces de analizar el comportamiento de los usuarios en Internet y en base a ello ofrecerles contenidos acorde a su perfil.
 •	Email marketing: Se basa en la automatización y algunas de las herramientas que emplea pueden usar el procesamiento del lenguaje natural para redactar asuntos más llamativos o cuerpos de email personalizados.
 
-                                                              ###_** Atención al cliente _**
+                                                              ###_**Atención al cliente_**
 
 ####Los departamentos de atención al cliente también pueden beneficiarse del empleo de sistemas de Inteligencia Artificial, puesto que pueden delegar algunas tareas en asistentes virtuales. Pero no solo eso, como en el caso del marketing, pueden analizar el comportamiento de los usuarios y poder ofrecerles la ayuda que buscan prácticamente en tiempo real.
 La atención al cliente genera una gran cantidad de datos que los sistemas de IA pueden ayudar a analizar para crear servicios predictivos con los que las empresas puedan adelantarse a las consultas y necesidades de sus clientes, ofreciéndoles una atención más personalizada.
