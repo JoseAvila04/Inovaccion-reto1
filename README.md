@@ -141,7 +141,7 @@ DevOps reúne a individuos, procesos y tecnología mediante la automatización d
 
 La Inteligencia Artificial (o I.A.) es la capacidad de una máquina o sistema informática de emular en parte el comportamiento de la mente humana desarrollando capacidades que hasta hace poco solo estaban alcance del cerebro humano, como la creatividad o el análisis complejo en base de datos incompletos. Como bien se denomina, su emulación es a través de modelos matemáticos que se expresan de la forma en la que aprendemos y pensamos los seres humanos. También, existen diversas formas las cuales una IA puede aprender, pero se relaciona más centrado al aprendizaje de un niño pequeño.
 
-                            <img src="https://www.cic.es/wp-content/uploads/2018/05/imagen_blog-1100x605.png" width= 500>
+<img src="https://www.cic.es/wp-content/uploads/2018/05/imagen_blog-1100x605.png" width= 500>
 
 ## Tipos de Inteligencia Artificial
                                                    
@@ -149,7 +149,7 @@ El funcionamiento de la Inteligencia Artificial depende en gran medida de los al
 Una primera diferencia la podemos hacer entre los sistemas de IA débil e IA fuerte. Los primeros, también conocidos como IA estrecha, son sistemas diseñados y entrenados para realizar una única tarea. Mientras que los segundos, también llamados como inteligencia general artificial, son sistemas que cuentan con habilidades cognitivas humanas generalizadas, de manera que tienen la capacidad de encontrar por sí mismas la solución a una tarea planteada.
 Una segunda forma de distinguir entre tipos de IA la encontramos en la categorización que hizo Arend Hintze, profesor de biología integradora e ingeniería y ciencias de la computación en la Universidad Estatal de Michigan. Hintze distingue entre 4 tipos de IA, tanto existentes hoy en día como todavía por desarrollarse. Los vemos en detalle a continuación.
 
-                           <img src= "https://aprendeia.com/wp-content/uploads/2019/10/tipos-de-inteligencia-artificial.png" width=300>
+<img src= "https://aprendeia.com/wp-content/uploads/2019/10/tipos-de-inteligencia-artificial.png" width=300>
      
 ## Máquinas Reactivas    
                                                        
